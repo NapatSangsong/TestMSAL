@@ -1,0 +1,14 @@
+/Users/napatsangsong/TestProject/bin/Debug/net9.0/TestProject
+/Users/napatsangsong/TestProject/bin/Debug/net9.0/TestProject.deps.json
+/Users/napatsangsong/TestProject/bin/Debug/net9.0/TestProject.runtimeconfig.json
+/Users/napatsangsong/TestProject/bin/Debug/net9.0/TestProject.dll
+/Users/napatsangsong/TestProject/bin/Debug/net9.0/TestProject.pdb
+/Users/napatsangsong/TestProject/obj/Debug/net9.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/napatsangsong/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfoInputs.cache
+/Users/napatsangsong/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfo.cs
+/Users/napatsangsong/TestProject/obj/Debug/net9.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/napatsangsong/TestProject/obj/Debug/net9.0/TestProject.dll
+/Users/napatsangsong/TestProject/obj/Debug/net9.0/refint/TestProject.dll
+/Users/napatsangsong/TestProject/obj/Debug/net9.0/TestProject.pdb
+/Users/napatsangsong/TestProject/obj/Debug/net9.0/TestProject.genruntimeconfig.cache
+/Users/napatsangsong/TestProject/obj/Debug/net9.0/ref/TestProject.dll
